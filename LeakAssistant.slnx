@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="community-forum.md" />
+    <File Path="docs/appeals.md" />
+    <File Path="docs/business-customers.md" />
+    <File Path="docs/calculation.md" />
+    <File Path="docs/eligibility.md" />
+    <File Path="docs/evidence.md" />
+    <File Path="docs/faq.md" />
+    <File Path="docs/overview.md" />
+    <File Path="docs/time-limits.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/LeakAssistant.Chat/LeakAssistant.Chat.csproj" />
+    <Project Path="src/LeakAssistant.Core/LeakAssistant.Core.csproj" />
+    <Project Path="src/LeakAssistant.Eval/LeakAssistant.Eval.csproj" />
+    <Project Path="src/LeakAssistant.Ingest/LeakAssistant.Ingest.csproj" />
+  </Folder>
+</Solution>
