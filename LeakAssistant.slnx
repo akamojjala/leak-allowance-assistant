@@ -10,10 +10,16 @@
     <File Path="docs/overview.md" />
     <File Path="docs/time-limits.md" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/LeakAssistant.Chat/LeakAssistant.Chat.csproj" />
     <Project Path="src/LeakAssistant.Core/LeakAssistant.Core.csproj" />
     <Project Path="src/LeakAssistant.Eval/LeakAssistant.Eval.csproj" />
     <Project Path="src/LeakAssistant.Ingest/LeakAssistant.Ingest.csproj" />
+  </Folder>
+  <Folder Name="/eval/">
+    <File Path="questions.json" />
   </Folder>
 </Solution>
